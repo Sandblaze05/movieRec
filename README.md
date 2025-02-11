@@ -2,6 +2,9 @@
 
 MovieRec is a web application that helps you find movies you'll enjoy. It allows users to search for movies, view trending movies, and get detailed information about each movie.
 
+## 🚀 Live Demo
+<a href="https://movie-rec-git-master-sandblaze05s-projects.vercel.app">Click here.</a>
+
 ## Features
 
 - **Search Movies**: Search for movies by title.
